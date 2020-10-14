@@ -11,6 +11,9 @@ public class Strings {
 		System.out.println("Lower Case: " + myString.toLowerCase());
 		System.out.println("Location of World: " + myString.indexOf("World"));
 		System.out.println(oneString + " " + twoString);
+		
+		System.out.println("My name is \"Jane Doe\"");
 	}
+	
 
 }
