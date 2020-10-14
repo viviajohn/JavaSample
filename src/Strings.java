@@ -7,6 +7,7 @@ public class Strings {
 		System.out.println("Length of myString: " + myString.length());
 		System.out.println("Upper Case: " + myString.toUpperCase());
 		System.out.println("Lower Case: " + myString.toLowerCase());
+		System.out.println("Location of World: " + myString.indexOf("World"));
 	}
 
 }
