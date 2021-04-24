@@ -9,8 +9,8 @@ public class Variables {
 		boolean myBool = false;
 		String myText = "Hello World";
 		
-		System.out.println("myNum = " + myNum);
-		System.out.println("myFloatNum = " + myFloatNum);
+		System.out.println("myNum = " + myNum);//printf("myNum = %d", myNum);
+		System.out.println("myFloatNum = " + myFloatNum); //printf("myFloat = %f", myFloat);
 		System.out.println("myLetter = " + myLetter);
 		System.out.println("myBool = " + myBool);
 		System.out.println("myText = " + myText);

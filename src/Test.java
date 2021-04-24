@@ -1,9 +1,15 @@
 
+
+
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("This is a test project");
+		int a = 1;
+		float b = 1.5f;
+		
+		//a = 1 and b = 1.5
+		
+		System.out.println("a = " + a + " and b = " + b);
 	}
 
 }
